@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "notes": "نسخه‌ی پایه",
+  "files": [],
+  "exe": {
+    "name": "SimPortal.exe",
+    "url": "https://github.com/alinepro2026/updates/releases/download/v2.0.1/SimPortal.exe",
+    "sha256": "58216400923cc3d2fa5d4f41222482522f2fe730d61afc3f4eceb593185ecea7"
+  },
+  "sig": "wxNO7dXcLKdGtlMidzhwGruTytGXokQ6S0bmdwAp5WjCCMabk6wMl70wGe-iiPZ0IF_KrJKy5ZyYloHm9f37Cw"
+}
